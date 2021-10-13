@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344487349388",
+    "project_id": "face-detector-ml-kit-ef293",
+    "storage_bucket": "face-detector-ml-kit-ef293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344487349388:android:46a01490cb601b65a13fa9",
+        "android_client_info": {
+          "package_name": "com.panwarjagdev.facedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344487349388-ir8b2j9jn8lrfvmm6r6k8aqc09v5p0j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaphpxGxjv1HgGcoqEp3ITl6bAANozcyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344487349388-ir8b2j9jn8lrfvmm6r6k8aqc09v5p0j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
