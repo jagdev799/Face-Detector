@@ -44,15 +44,18 @@ CameraView cameraView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_cameraactivity);
         facebutton=findViewById(R.id.button);
         graphicOverlay=findViewById(R.id.graphic_overlay);
         cameraView=findViewById(R.id.camera_view);
+
 
         waitingdialog=new SpotsDialog.Builder().setContext(this)
                 .setMessage("please wait")
                 .setCancelable(false)
                 .build();
+
+
 
         facebutton.setOnClickListener(new View.OnClickListener() {
             @Override
